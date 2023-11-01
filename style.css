@@ -653,7 +653,7 @@ span
     left: 0;
     width: 0;
     height: 100%;
-    background: red;
+    background:var(--seconde-bg-color);
     border-radius: .6rem;
     z-index: -1;
     transition: .5s;
